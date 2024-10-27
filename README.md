@@ -1,8 +1,7 @@
-# React + Vite
+# React Todo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a todo app written in react JS. 
+This is my first react project. 
 
-Currently, two official plugins are available:
+Credit to this tutorial: [React.JS Full Course - Build 4 Projects in 5 Hours | Zero to Hero](https://www.youtube.com/watch?v=82PXenL4MGg)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
